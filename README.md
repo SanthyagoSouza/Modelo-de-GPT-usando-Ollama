@@ -1,2 +1,5 @@
-# Modelo-de-GPT-usando-Ollama
-Este projeto foi desenvolvido com o objetivo de criar um assistente de IA leve, gratuito e executado localmente, pensado para apoiar o desenvolvimento de projetos pessoais no dia a dia
+Este projeto foi desenvolvido com o objetivo de criar um assistente de IA leve, gratuito e executado localmente, pensado para apoiar o desenvolvimento de projetos pessoais no dia a dia. A proposta é oferecer uma ferramenta prática de engenharia de software que funcione diretamente na máquina do usuário, sem depender de APIs pagas ou infraestrutura complexa, priorizando privacidade, baixo consumo de recursos e facilidade de uso. Utilizando modelos locais por meio do Ollama, a aplicação busca ajudar em tarefas como análise de código, contexto de arquivos, sugestões técnicas e suporte ao fluxo de desenvolvimento de forma acessível e eficiente.
+
+Se você quiser uma versão mais curta, estilo README ou portfólio, eu sugeriria esta:
+
+Projeto de assistente de IA local, gratuito e leve, criado para apoiar o desenvolvimento de projetos pessoais. A aplicação roda localmente, utiliza modelos via Ollama e foi pensada para oferecer suporte prático em tarefas de engenharia de software, com foco em privacidade, simplicidade e baixo consumo de recursos.
